@@ -1,5 +1,3 @@
-package com.example.hotel.strategy;
-
 import java.math.BigDecimal;
 
 public interface PricingStrategy {
