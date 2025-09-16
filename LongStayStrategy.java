@@ -1,4 +1,5 @@
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 public final class LongStayStrategy implements PricingStrategy {
     private final int threshold;
