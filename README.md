@@ -1,10 +1,10 @@
 # design_pattern_class_2
 ## 요금제 정보
-기본 요금제 : 기본 요금 x 숙박 일수
-성수기 요금제 : 35% 가산
-비성수기 요금제 : 5% 할인
-장기 숙박 할인 요금제 : 3박 부터 10% 할인
-주의 : 모든 금액 계산은 BigDecimal, 반올림 처리
+1. 기본 요금제 : 기본 요금 x 숙박 일수
+2. 성수기 요금제 : 35% 가산
+3. 비성수기 요금제 : 5% 할인
+4. 장기 숙박 할인 요금제 : 3박 부터 10% 할인
+5. 주의 : 모든 금액 계산은 BigDecimal, 반올림 처리
 
 <img width="3840" height="1697" alt="Untitled diagram _ Mermaid Chart-2025-09-16-133904" src="https://github.com/user-attachments/assets/bdd19ef0-e9f9-4585-af7b-141e49fd5b4f" />
 
