@@ -1,4 +1,5 @@
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 public final class PeakSeasonStrategy implements PricingStrategy {
     private final BigDecimal peakMultiplier;
