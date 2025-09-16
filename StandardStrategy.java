@@ -1,11 +1,9 @@
 import java.math.BigDecimal;
-import java.math.RoundingMode;
 
 public final class StandardStrategy implements PricingStrategy {
     @Override
     public BigDecimal quote(Booking b) {
-        return b.roomType().baseRate()
-                .multiply(BigDecimal.valueOf(b.nights()))
-                .setScale(0, RoundingMode.HALF_UP);
+        // TODO: 기본요금 = 방 기본요금 × 숙박박수
+        return null; // 학생이 직접 구현
     }
 }
