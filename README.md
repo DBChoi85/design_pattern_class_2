@@ -9,5 +9,6 @@
 <img width="3840" height="1697" alt="Untitled diagram _ Mermaid Chart-2025-09-16-133904" src="https://github.com/user-attachments/assets/bdd19ef0-e9f9-4585-af7b-141e49fd5b4f" />
 
 ## 좀더 해보자
-회원 등급에 따른 추가 할인제도를 구현해 보자
-SILVER, GOLD, PLATINUM 각각 5%, 10%, 15% 할인
+1. 회원 등급에 따른 추가 할인제도를 구현해 보자
+2. SILVER, GOLD, PLATINUM 각각 5%, 10%, 15% 할인
+3. 클래스 다이어그램 갱신
