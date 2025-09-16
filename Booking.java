@@ -9,3 +9,4 @@ public final class Booking {
     }
     public RoomType roomType() { return roomType; }
     public int nights() { return nights; }
+}
