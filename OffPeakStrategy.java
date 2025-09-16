@@ -1,4 +1,5 @@
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 public final class OffPeakStrategy implements PricingStrategy {
     private final BigDecimal offMultiplier;
